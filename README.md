@@ -1,4 +1,4 @@
 rishta
 ======
 
-rishta is test project for private use
+rishta is test project for private and public use
